@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @roshaniaher
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning new concepts of React.js
-- 💞️ I’m looking to collaborate on MERN projects
-- 📫 Reach me on gmail RoshaniAher16@gmail.com 
+- 
 
 
 
